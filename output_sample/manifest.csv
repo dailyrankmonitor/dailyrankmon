@@ -1,0 +1,17 @@
+seq,city,dx,rn,checkin,checkout,rooms,adults,children,ages,top,status,rows,seconds,file
+1,Goa,0,1,2026-09-11,2026-09-12,1,2,0,,3,ok,3,21.1,mmt_srp_goa_dx0_rn1_2a0c_top3.csv
+2,Goa,0,1,2026-09-11,2026-09-12,1,2,1,1,3,ok,3,21.9,mmt_srp_goa_dx0_rn1_2a1c_ages1_top3.csv
+3,Goa,0,1,2026-09-11,2026-09-12,1,2,2,5 9,3,ok,3,21.7,mmt_srp_goa_dx0_rn1_2a2c_ages5-9_top3.csv
+4,Goa,0,1,2026-09-11,2026-09-12,1,1,0,,3,ok,3,21.1,mmt_srp_goa_dx0_rn1_1a0c_top3.csv
+5,Goa,15,2,2026-09-26,2026-09-28,1,2,0,,3,ok,3,20.6,mmt_srp_goa_dx15_rn2_2a0c_top3.csv
+6,Goa,15,2,2026-09-26,2026-09-28,1,2,1,1,3,ok,3,21.1,mmt_srp_goa_dx15_rn2_2a1c_ages1_top3.csv
+7,Goa,15,2,2026-09-26,2026-09-28,1,2,2,5 9,3,ok,3,22.2,mmt_srp_goa_dx15_rn2_2a2c_ages5-9_top3.csv
+8,Goa,15,2,2026-09-26,2026-09-28,1,1,0,,3,ok,3,21.5,mmt_srp_goa_dx15_rn2_1a0c_top3.csv
+9,Mumbai,0,1,2026-09-11,2026-09-12,1,2,0,,3,ok,3,20.8,mmt_srp_mumbai_dx0_rn1_2a0c_top3.csv
+10,Mumbai,0,1,2026-09-11,2026-09-12,1,2,1,1,3,ok,3,22.2,mmt_srp_mumbai_dx0_rn1_2a1c_ages1_top3.csv
+11,Mumbai,0,1,2026-09-11,2026-09-12,1,2,2,5 9,3,ok,3,24.2,mmt_srp_mumbai_dx0_rn1_2a2c_ages5-9_top3.csv
+12,Mumbai,0,1,2026-09-11,2026-09-12,1,1,0,,3,ok,3,23.7,mmt_srp_mumbai_dx0_rn1_1a0c_top3.csv
+13,Mumbai,15,2,2026-09-26,2026-09-28,1,2,0,,3,ok,3,20.7,mmt_srp_mumbai_dx15_rn2_2a0c_top3.csv
+14,Mumbai,15,2,2026-09-26,2026-09-28,1,2,1,1,3,ok,3,32.3,mmt_srp_mumbai_dx15_rn2_2a1c_ages1_top3.csv
+15,Mumbai,15,2,2026-09-26,2026-09-28,1,2,2,5 9,3,ok,3,23.3,mmt_srp_mumbai_dx15_rn2_2a2c_ages5-9_top3.csv
+16,Mumbai,15,2,2026-09-26,2026-09-28,1,1,0,,3,ok,3,21.3,mmt_srp_mumbai_dx15_rn2_1a0c_top3.csv
